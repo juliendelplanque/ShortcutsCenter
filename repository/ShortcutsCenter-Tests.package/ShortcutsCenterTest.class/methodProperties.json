@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "JulienDelplanque 2/25/2016 08:36",
+		"testCollectHelpPragmas" : "JulienDelplanque 2/25/2016 08:49",
+		"testCollectShortcutPragmas" : "JulienDelplanque 2/25/2016 08:48",
+		"testHasShortcutsDocumentation" : "JulienDelplanque 2/25/2016 08:51",
+		"testSetUpShortcuts" : "JulienDelplanque 2/25/2016 08:46" } }

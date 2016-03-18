@@ -1,0 +1,1 @@
+I am a widget that hold a ShortcutCenter to list all the shortcuts and their documentation nicely.

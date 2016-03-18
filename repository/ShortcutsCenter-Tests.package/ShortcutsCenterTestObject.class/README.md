@@ -1,0 +1,1 @@
+This object is defined to run ShortcutsCenter package's tests.

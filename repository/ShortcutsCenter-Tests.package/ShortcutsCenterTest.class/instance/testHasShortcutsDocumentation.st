@@ -1,0 +1,3 @@
+tests-testing
+testHasShortcutsDocumentation
+	self assert: shortcutsCenter hasShortcutsDocumentation.

@@ -1,0 +1,15 @@
+{
+	"category" : "ShortcutsCenter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 2/24/2016 09:59",
+	"instvars" : [
+		"shortcutsCenter",
+		"shortcutsList" ],
+	"name" : "ShortcutsCenterWidget",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

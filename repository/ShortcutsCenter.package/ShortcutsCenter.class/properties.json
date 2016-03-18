@@ -1,0 +1,16 @@
+{
+	"category" : "ShortcutsCenter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 2/24/2016 09:57",
+	"instvars" : [
+		"widget",
+		"shortcutPragma",
+		"helpPragma" ],
+	"name" : "ShortcutsCenter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "ShortcutsCenter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 2/24/2016 10:06",
+	"instvars" : [
+		"method" ],
+	"name" : "NoShortcutPragma",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

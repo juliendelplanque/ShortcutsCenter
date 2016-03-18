@@ -1,0 +1,15 @@
+{
+	"category" : "ShortcutsCenter-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"shortcutsCenter",
+		"widget" ],
+	"name" : "ShortcutsCenterTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

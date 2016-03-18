@@ -1,0 +1,1 @@
+Error raised when a method hold a shortcut help pragma but no shortcut pragma.

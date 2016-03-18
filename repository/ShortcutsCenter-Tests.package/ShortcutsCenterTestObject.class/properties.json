@@ -1,0 +1,14 @@
+{
+	"category" : "ShortcutsCenter-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 2/25/2016 08:31",
+	"instvars" : [
+		 ],
+	"name" : "ShortcutsCenterTestObject",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

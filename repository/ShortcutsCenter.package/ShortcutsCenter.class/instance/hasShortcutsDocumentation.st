@@ -1,0 +1,3 @@
+testing
+hasShortcutsDocumentation
+	^ self collectHelpPragmas isNotEmpty

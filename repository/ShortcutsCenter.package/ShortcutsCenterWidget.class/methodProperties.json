@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"defaultSpec" : "JulienDelplanque 2/24/2016 09:26",
+		"on:" : "JulienDelplanque 2/24/2016 09:16" },
+	"instance" : {
+		"initializePresenter" : "JulienDelplanque 2/24/2016 09:30",
+		"initializeShortcutsList" : "JulienDelplanque 2/24/2016 09:50",
+		"initializeWidgets" : "JulienDelplanque 2/24/2016 09:17",
+		"shortcutFromSelector:" : "JulienDelplanque 2/24/2016 09:44",
+		"shortcutStringFromSelector:" : "JulienDelplanque 2/24/2016 09:46",
+		"shortcutsCenter" : "JulienDelplanque 2/24/2016 09:17",
+		"shortcutsCenter:" : "JulienDelplanque 2/24/2016 09:31",
+		"shortcutsList" : "JulienDelplanque 2/24/2016 09:17" } }
