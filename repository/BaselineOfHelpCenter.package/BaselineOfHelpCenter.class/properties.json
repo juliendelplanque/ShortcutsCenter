@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfHelpCenter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfHelpCenter",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
