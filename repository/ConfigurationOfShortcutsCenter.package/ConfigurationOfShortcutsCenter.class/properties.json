@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfShortcutsCenter",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfShortcutsCenter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
